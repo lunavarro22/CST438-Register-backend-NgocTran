@@ -1,0 +1,24 @@
+# Spring Boot #
+./target/
+./build/
+bin/
+*.jar
+*.war
+*.ear
+*.class
+!**/application.properties
+!**/application.yml
+
+# IDE #
+.idea/
+.vscode/
+*.iml
+*.ipr
+*.iws
+*.classpath
+*.project
+*.settings/
+
+# Gradle #
+.gradle/
+build.gradle
